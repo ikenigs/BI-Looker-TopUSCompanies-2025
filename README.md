@@ -1,5 +1,5 @@
 # BI-Looker-TopUSCompanies-2025
-# 🏢 **Leadership and Scale: A Comparison of Top U.S. CEOs in 2025**  
+# 🏢 **Leadership and Scale: Top U.S. Companies and CEOs in 2025**  
 ### Analyzing company size, leadership tenure, and revenue efficiency across major U.S. organizations  
 
 ---
