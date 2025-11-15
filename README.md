@@ -1,14 +1,16 @@
 # BI-Looker-TopUSCompanies-2025
 # 🏢 **Leadership and Scale: Top U.S. Companies and CEOs in 2025**  
-### Analyzing company size, leadership tenure, and revenue efficiency across major U.S. organizations  
+### Analyzing company size and revenue efficiency across major U.S. organizations  
 
 ---
 
 ## 🧭 **Project Overview**
 
-This **Google Looker Studio dashboard** explores how leadership and organizational scale relate to revenue performance across ten major U.S. corporations.  
+This Google Looker Studio dashboard explores how organizational scale relates to revenue performance across ten major U.S. corporations: **Walmart, Alphabet, Amazon, PepsiCo, Exxon Mobil, Microsoft, Tesla, Intel, Starbucks, and McDonald’s**.
+  
+🔗 **View the interactive dashboard here:** [Looker Studio Report](https://lookerstudio.google.com/reporting/fc89e61c-9268-4aa2-a74c-8c05e65a71e8)
 
-By combining metrics such as **CEO tenure**, **company revenue**, **workforce size**, and **revenue per employee**, this report provides a data-driven view of how companies balance leadership stability, scale, and efficiency.  
+By combining metrics such as **company revenue**, **workforce size**, and **revenue per employee**, this report provides a data-driven view of how companies balance scale and efficiency.  
 
 ---
 
@@ -35,8 +37,8 @@ By combining metrics such as **CEO tenure**, **company revenue**, **workforce si
 
 ## 🗂️ **Dataset**
 
-This project uses a **Google Sheets dataset** manually curated for analytical visualization.  
-All monetary and workforce figures represent publicly available or illustrative data for 2025.  
+This project uses a **Google Sheets dataset** manually curated for analytical visualization.
+All monetary and workforce figures represent publicly available or illustrative data for 2025.
 
 | Field | Description |
 |--------|-------------|
@@ -49,14 +51,14 @@ All monetary and workforce figures represent publicly available or illustrative 
 | **Revenue** | Annual revenue (USD) |
 | **Logo** | Public company logo URL (via Clearbit) |
 
+**Excel dataset available here:** [Companies and CEOs dataset.xlsx](https://github.com/ikenigs/BI-Looker-TopUSCompanies-2025/blob/main/Companies%20and%20CEOs%20dataset.xlsx)
+
 ---
 
 ## 🧰 **Tools Used**
 
 - **Google Sheets** – for data storage and light preprocessing  
 - **Google Looker Studio** – for dashboard creation and visualization design  
-- **Microsoft Excel** – for initial data cleaning and formatting  
-
 ---
 
 ## 📈 **Summary Key Insights**
@@ -71,4 +73,3 @@ Tech companies such as **Alphabet** and **Microsoft** show strong revenue effici
 
 - Add *industry benchmarks* (e.g., Tech vs. Retail vs. Energy).  
 - Include *CEO compensation trends* over time.  
-- Build a *Power BI* version for comparison and performance optimization.  
